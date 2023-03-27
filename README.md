@@ -3,7 +3,9 @@ Brief description of what was worked on the project in the Week 1 and 2
 
 ## WEEK 1
 ```
-In the first week we learned te basics of web developement, the sections of a web page and how they work. In addition we learned the concepts of agile methologies (SCRUM, Kanban, etc.). Also, we were introduced to figma and learned how to use it, whe had to do a GYM web page with all its sections. Me and my partner were given the members and assosiates page to do. 
+In the first week we learned te basics of web developement, the sections of a web page and how they work. In addition we learned the concepts of agile
+methologies (SCRUM, Kanban, etc.). Also, we were introduced to figma and learned how to use it, whe had to do a GYM web page with all its sections. Me
+and my partner were given the members and assosiates page to do. 
 
 ```
 
